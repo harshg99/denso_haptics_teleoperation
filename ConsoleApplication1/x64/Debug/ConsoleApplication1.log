@@ -1,0 +1,10 @@
+﻿  JointAngles.cpp
+c:\users\user\source\repos\consoleapplication1\consoleapplication1\jointangles.cpp(175): warning C4101: 'forces': unreferenced local variable
+c:\users\user\source\repos\consoleapplication1\consoleapplication1\jointangles.cpp(176): warning C4101: 'AngDev': unreferenced local variable
+c:\users\user\source\repos\consoleapplication1\consoleapplication1\jointangles.cpp(176): warning C4101: 'AngZ': unreferenced local variable
+c:\users\user\source\repos\consoleapplication1\consoleapplication1\jointangles.cpp(173): warning C4101: 'p': unreferenced local variable
+c:\users\user\source\repos\consoleapplication1\consoleapplication1\jointangles.cpp(172): warning C4101: 'f': unreferenced local variable
+c:\users\user\source\repos\consoleapplication1\consoleapplication1\jointangles.cpp(176): warning C4101: 'AngX': unreferenced local variable
+c:\users\user\source\repos\consoleapplication1\consoleapplication1\jointangles.cpp(176): warning C4101: 'AngGrip': unreferenced local variable
+c:\users\user\source\repos\consoleapplication1\consoleapplication1\jointangles.cpp(130): warning C4715: 'comm_TCP::SocketBind': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\user\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
